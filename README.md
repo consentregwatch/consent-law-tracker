@@ -25,4 +25,4 @@ Every entry links to the official text. Summaries are general information, not l
 | US-TX | TDPSA | in force | 2024-07-01 | [official text](https://statutes.capitol.texas.gov/Docs/BC/htm/BC.541.htm) | [summary](https://consentregwatch.com/regulations/texas/texas-data-privacy-and-security-act?utm_source=github&utm_medium=social&utm_campaign=repo) |
 | US-VA | VCDPA | amended | 2023-01-01 | [official text](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/) | [summary](https://consentregwatch.com/regulations/virginia/virginia-consumer-data-protection-act?utm_source=github&utm_medium=social&utm_campaign=repo) |
 
-Recent regulatory developments: [TRACKER.md](TRACKER.md). Last updated 2026-11-24.
+Recent regulatory developments: [TRACKER.md](TRACKER.md). Last updated 2026-11-25.
